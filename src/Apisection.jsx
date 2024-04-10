@@ -15,7 +15,7 @@ const Apisection = () => {
                     <div className='logoarea h-[116px] bg-[#d5f4ee] flex flex-col justify-between '>
                     <div className='flex flex-col justify-center h-full'>
                              <div className='flex flex-row justify-center w-full'>
-                             <img className=''  src='\src\assets\image.jpg'/>
+                             <img className=''  src='.\src\assets\image.jpg'/>
                                 </div>
                                 </div>
                         
@@ -43,7 +43,7 @@ const Apisection = () => {
                     <div className='logoarea h-[116px] bg-[#d5f4ee] flex flex-col justify-between '>
                     <div className='flex flex-col justify-center h-full'>
                              <div className='flex flex-row justify-center w-full'>
-                             <img className=''  src='\src\assets\image2.jpg'/>
+                             <img className=''  src='.\src\assets\image2.jpg'/>
                                 </div>
                                 </div>
                         
@@ -71,7 +71,7 @@ const Apisection = () => {
                     <div className='logoarea h-[116px] bg-[#d5f4ee] flex flex-col justify-between '>
                     <div className='flex flex-col justify-center h-full'>
                              <div className='flex flex-row justify-center w-full'>
-                             <img className=''  src='\src\assets\image3.jpg'/>
+                             <img className=''  src='.\src\assets\image3.jpg'/>
                                 </div>
                                 </div>
                         

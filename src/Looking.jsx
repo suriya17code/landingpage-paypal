@@ -26,7 +26,7 @@ const Looking = () => {
           {/* right */}
           <div className='lg:max-w-[30%]'>
             <div className='px-5'>
-              <img src='\src\assets\looking.png ' alt=''/>
+              <img src='.\src\assets\looking.png ' alt=''/>
             </div>
           </div>
         </div>

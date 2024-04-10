@@ -13,7 +13,7 @@ const Tools = () => {
                  <h3 className='text-5xl font-semibold xl:w-[70%] '> Developer Tolls & Resources</h3>
              </div>
              <div className='image flex '>
-              <img className='items-start' src='\src\assets\doll.png' alt=''/>
+              <img className='items-start' src='.\src\assets\doll.png' alt=''/>
              </div>
            </div>
            {/* right */}

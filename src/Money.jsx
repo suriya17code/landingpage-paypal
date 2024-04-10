@@ -7,7 +7,7 @@ const Money = () => {
            <div className=' divided flex flex-wrap  justify-center '>
             {/* left */}
              <div className='lg:max-w-[50%]  md:max-w-[50%] mb-5'>
-               <img className=' w-[100%] h-[100%]' src='\src\assets\money.png' alt='money'/>
+               <img className=' w-[100%] h-[100%]' src='.\src\assets\money.png' alt='money'/>
              </div >
              {/* right */}
              <div className=' lg:max-w-[50%] md:max-w-[50%]  '>
